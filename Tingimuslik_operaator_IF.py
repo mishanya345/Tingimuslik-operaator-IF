@@ -1,5 +1,3 @@
-# Praktikaülesanded 1–14 (lihtne versioon)
-
 import math
 import random
 from datetime import date
